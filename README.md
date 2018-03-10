@@ -1,2 +1,3 @@
-# mid-deeprl
-machine intelligence decision be solved to deep reinforcement learning algorithm framework
+# intelligence ranking system and algorithm
+
+## deep learning and reinforcement learning 
